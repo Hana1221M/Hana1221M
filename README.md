@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @Hana1221M
-- 🎓 2nd year student at Bahir Dar University 
-- 👀 I’m interested infrontend and backend web technologies
-- 🌱 I’m currently learning C++, Python, HTML/CSS, and JavaScript
-Connect with Me
-- Email:hanamesfin111@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/hana-mesfin-b26187336
-- Instagram:hann_a.m21
+# Windows Server 2022 – OS Project
 
+## INSTALLATION
 
-<!---
-Hana1221M/Hana1221M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project explains how to install Windows Server 2022 using Oracle VirtualBox. It includes steps like setting up a virtual machine, loading the ISO file, and following the installation wizard. Key tasks include choosing server roles, setting up a user account, and configuring the network. The goal is to get a clean and working server environment for learning. It's a simple way to explore Windows Server features without using a real server.
+
+## SYSTEM CALL IMPLEMENTATION
+
+The system call explored in this project is `accept()`, which helps a server listen and respond to client connections. It’s part of the Winsock API in Windows and is commonly used in socket programming. When a client tries to connect, `accept()` creates a new socket to handle that specific connection. This is useful in apps like web servers that need to talk to many users at once. It’s a basic but powerful tool for building networked software.
