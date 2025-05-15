@@ -6,4 +6,4 @@ This project explains how to install Windows Server 2022 using Oracle VirtualBox
 
 ## SYSTEM CALL IMPLEMENTATION
 
-The system call explored in this project is `accept()`, which helps a server listen and respond to client connections. It’s part of the Winsock API in Windows and is commonly used in socket programming. When a client tries to connect, `accept()` creates a new socket to handle that specific connection. This is useful in apps like web servers that need to talk to many users at once. It is a basic but powerful tool for building networked software.
+The system call explored in this project is `accept()`, which helps a server listen and respond to client connections. It’s part of the Winsock API in Windows and is commonly used in socket programming. When a client tries to connect, `accept()` creates a new socket to handle that specific connection. This is useful in apps like web servers that need to talk to many users at once. It’s a basic but powerful tool for building networked software.
